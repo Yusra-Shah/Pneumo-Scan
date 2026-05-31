@@ -53,7 +53,7 @@ All results come from real PyTorch inference on trained weights.
 
 ## Models
 
-Trained on 15,000 chest X-rays. Weighted soft-vote ensemble. Weights stored in float16 for deployment.
+Trained on 15,000 chest X-rays.Weighted soft-vote ensemble. Weights stored in float16 for deployment.
 
 | Model | Role | Val Acc | Test Acc | Weight |
 |---|---|---|---|---|
@@ -146,6 +146,8 @@ python main.py
 ```
 
 ---
+## Contributor
+- @sinyaakumarii
 
 ## Project Structure
 
